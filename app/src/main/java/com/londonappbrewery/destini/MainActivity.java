@@ -14,8 +14,8 @@ public class MainActivity extends AppCompatActivity {
     TextView mStoryText;
     Button mButtonTop;
     Button mButtonBottom;
-    int mStoryRightIndex =0;
-    int mStoryLeftIndex =0;
+    int mStoryRightIndex = 0;
+    int mStoryLeftIndex = 0;
 
 
 
